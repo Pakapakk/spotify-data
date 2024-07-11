@@ -1,3 +1,6 @@
-# Disclaimer
+# This project is part of EGCI466 Big Data group project
 
-### This project is not for commercial use. 
+- 6481145 Yanaput 
+- 6481260 Guntawit 
+- 6481326 Natakorn
+- 6481328 Pakapak
